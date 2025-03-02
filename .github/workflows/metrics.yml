@@ -49,3 +49,4 @@ jobs:
           plugin_lines_repositories_limit: 4
           plugin_lines_sections: base
           repositories_batch: 300
+          config_debug: yes
