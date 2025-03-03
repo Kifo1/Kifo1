@@ -44,9 +44,10 @@ jobs:
           plugin_languages_recent_load: 500
           plugin_languages_sections: most-used, recently-used
           plugin_languages_details: percentage, bytes-size
-          plugin_languages_threshold: 0.1%
+          plugin_languages_threshold: 0%
           plugin_lines: yes
           repositories_affiliations: owner, collaborator, organization_member
+          repositories_batch: 10
           plugin_repositories_forks: yes
           debug: yes
           debug_print: yes
