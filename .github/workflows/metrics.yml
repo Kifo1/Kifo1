@@ -46,7 +46,6 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_lines: yes
           repositories_affiliations: owner, collaborator, organization_member
-          repositories_batch: 15
           debug: yes
           debug_print: yes
           output_action: commit
