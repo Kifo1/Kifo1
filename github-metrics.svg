@@ -225,10 +225,10 @@
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="905.7976832556999" height="8" fill="#b07219"/>
-                    <rect mask="url(#languages-bar)" x="905.7976832556999" y="0" width="10.84573622567201" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="916.6434194813719" y="0" width="2.832505595141124" height="8" fill="#663399"/>
-                    <rect mask="url(#languages-bar)" x="919.475925076513" y="0" width="0.5240749234869394" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="905.8257104866381" height="8" fill="#b07219"/>
+                    <rect mask="url(#languages-bar)" x="905.8257104866381" y="0" width="10.82433296032009" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="916.6500434469582" y="0" width="2.8269158529971" height="8" fill="#663399"/>
+                    <rect mask="url(#languages-bar)" x="919.4769592999553" y="0" width="0.5230407000448158" height="8" fill="#e34c26"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -240,7 +240,7 @@
                                 Java
                             </div>
                             <small>
-                                <div>3.98 MB</div>
+                                <div>3.99 MB</div>
                                 <div>98.46%</div>
                             </small>
                         </div>
@@ -291,7 +291,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 30.2kb of code in 41 edited files across 46 commits over last 27 days</small>
+                <small>estimation from 30.2kb of code in 41 edited files across 46 commits over last 28 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="920" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="920" height="8" fill="white" rx="5"/>
@@ -337,7 +337,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31 May 2025, 03:24:09 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 1 Jun 2025, 03:49:44 (timezone Europe/Berlin) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
