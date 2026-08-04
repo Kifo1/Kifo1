@@ -41,6 +41,7 @@ jobs:
           plugin_languages_threshold: 0%
           repositories_batch: 20
           plugin_lines: yes
+          plugin_lines_sections: base, history, repositories
           repositories_affiliations: owner, collaborator, organization_member
           debug: yes
           debug_print: yes
